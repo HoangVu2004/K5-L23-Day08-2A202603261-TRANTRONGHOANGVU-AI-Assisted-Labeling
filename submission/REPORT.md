@@ -46,6 +46,7 @@
 | Ảnh | SAM (phiên bản) | Số click | Mask gồm người lái / hàng hoá? | Lỗi quan sát | File trong `masks/` |
 |---|---|---|---|---|---|
 | <<img_0xx>> | <<>> | <<>> | <<>> | <<>> | <<>> |
+r04,,yolo26-m+sam(sam2.1_b.pt),"--model yolo26 --size m --classes person,motorbike,car --images img_004.jpg img_013.jpg --conf 0.3 --segmenter sam --sam sam2.1_b.pt --out work/prelabel/t_sam",custom,16,6.83,,,,work\prelabel\t_sam,cpu,2,16,umbrellax3;handbagx1;bottlex8;chairx1,
 
 - Đối chiếu guideline mục 4.2: quy tắc nào giúp, quy tắc nào thiếu? <<>>
 - *(Tuỳ chọn)* Interactor SAM trong CVAT: làm được / không (lỗi gì, đã thử gì); khác gì offline: <<>>
