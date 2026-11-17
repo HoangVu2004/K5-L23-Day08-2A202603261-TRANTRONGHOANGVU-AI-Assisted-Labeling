@@ -1,6 +1,6 @@
 image,object_id,error_type,reviewer,note
-img_003.jpg,,,,
-img_006.jpg,,,, nham class
-img_014.jpg,,,, nham class
-img_031.jpg,,,, nham class
-img_035.jpg,,,, nham class
+img_003.jpg,,bo_sot,TranTrongHoangVu,bo sot tuk-tuk three_wheeler (bay missing)
+img_006.jpg,79,thua,TranTrongHoangVu,box ma person o khoang trong (bay extra)
+img_014.jpg,,khong,TranTrongHoangVu,anh khong co loi dat chuan
+img_031.jpg,,bo_sot,TranTrongHoangVu,bo sot person di bo o le duong (bay missing)
+img_035.jpg,380,sai_vi_tri_kich_thuoc,TranTrongHoangVu,box car o mep anh bi rong lech
